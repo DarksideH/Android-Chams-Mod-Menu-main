@@ -1,4 +1,4 @@
-# Android Chams Mod Menu.
+# Android Chams Mod Menu
 
 # Preview
 ![preview](https://user-images.githubusercontent.com/89693960/177047836-3023ce31-9749-423e-9926-393c246799ec.jpg)
